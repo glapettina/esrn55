@@ -94,18 +94,15 @@
                   <li><a href="12tt-cientifica"><i class="fa fa-circle-o"></i> 1º 2da. - TT</a></li>
                   <li><a href="21tm-cientifica"><i class="fa fa-circle-o"></i> 2º 1ra. - TM</a></li>
                   <li><a href="21tt-cientifica"><i class="fa fa-circle-o"></i> 2º 1ra. - TT</a></li>
-                  <li><a href="22tt-cientifica"><i class="fa fa-circle-o"></i> 2º 2da. - TT</a></li>
                   <li><a href="31tm-cientifica"><i class="fa fa-circle-o"></i> 3º 1ra. - TM</a></li>
                   <li><a href="32tm-cientifica"><i class="fa fa-circle-o"></i> 3º 2da. - TM</a></li>
                   <li><a href="31tt-cientifica"><i class="fa fa-circle-o"></i> 3º 1ra. - TT</a></li>
                   <li><a href="41tm-cientifica"><i class="fa fa-circle-o"></i> 4º 1ra. - TM</a></li>
                   <li><a href="42tm-cientifica"><i class="fa fa-circle-o"></i> 4º 2da. - TM</a></li>
                   <li><a href="41tt-cientifica"><i class="fa fa-circle-o"></i> 4º 1ra. - TT</a></li>
-                  <li><a href="42tt-cientifica"><i class="fa fa-circle-o"></i> 4º 2da. - TT</a></li>
                   <li><a href="51tm-cientifica"><i class="fa fa-circle-o"></i> 5º 1ra. - TM</a></li>
                   <li><a href="52tm-cientifica"><i class="fa fa-circle-o"></i> 5º 2da. - TM</a></li>
                   <li><a href="51tt-cientifica"><i class="fa fa-circle-o"></i> 5º 1ra. - TT</a></li>
-                  <li><a href="52tt-cientifica"><i class="fa fa-circle-o"></i> 5º 2da. - TT</a></li>
               </ul>
 
            
@@ -132,18 +129,15 @@
                   <li><a href="12tt-sociales"><i class="fa fa-circle-o"></i> 1º 2da. - TT</a></li>
                   <li><a href="21tm-sociales"><i class="fa fa-circle-o"></i> 2º 1ra. - TM</a></li>
                   <li><a href="21tt-sociales"><i class="fa fa-circle-o"></i> 2º 1ra. - TT</a></li>
-                  <li><a href="22tt-sociales"><i class="fa fa-circle-o"></i> 2º 2da. - TT</a></li>
                   <li><a href="31tm-sociales"><i class="fa fa-circle-o"></i> 3º 1ra. - TM</a></li>
                   <li><a href="32tm-sociales"><i class="fa fa-circle-o"></i> 3º 2da. - TM</a></li>
                   <li><a href="31tt-sociales"><i class="fa fa-circle-o"></i> 3º 1ra. - TT</a></li>
                   <li><a href="41tm-sociales"><i class="fa fa-circle-o"></i> 4º 1ra. - TM</a></li>
                   <li><a href="42tm-sociales"><i class="fa fa-circle-o"></i> 4º 2da. - TM</a></li>
                   <li><a href="41tt-sociales"><i class="fa fa-circle-o"></i> 4º 1ra. - TT</a></li>
-                  <li><a href="42tt-sociales"><i class="fa fa-circle-o"></i> 4º 2da. - TT</a></li>
                   <li><a href="51tm-sociales"><i class="fa fa-circle-o"></i> 5º 1ra. - TM</a></li>
                   <li><a href="52tm-sociales"><i class="fa fa-circle-o"></i> 5º 2da. - TM</a></li>
                   <li><a href="51tt-sociales"><i class="fa fa-circle-o"></i> 5º 1ra. - TT</a></li>
-                  <li><a href="52tt-sociales"><i class="fa fa-circle-o"></i> 5º 2da. - TT</a></li>     
               </ul>
 
            
@@ -173,18 +167,15 @@
                   <li><a href="12tt-literatura"><i class="fa fa-circle-o"></i> 1º 2da. - TT</a></li>
                   <li><a href="21tm-literatura"><i class="fa fa-circle-o"></i> 2º 1ra. - TM</a></li>
                   <li><a href="21tt-literatura"><i class="fa fa-circle-o"></i> 2º 1ra. - TT</a></li>
-                  <li><a href="22tt-literatura"><i class="fa fa-circle-o"></i> 2º 2da. - TT</a></li>
                   <li><a href="31tm-literatura"><i class="fa fa-circle-o"></i> 3º 1ra. - TM</a></li>
                   <li><a href="32tm-literatura"><i class="fa fa-circle-o"></i> 3º 2da. - TM</a></li>
                   <li><a href="31tt-literatura"><i class="fa fa-circle-o"></i> 3º 1ra. - TT</a></li>
                   <li><a href="41tm-literatura"><i class="fa fa-circle-o"></i> 4º 1ra. - TM</a></li>
                   <li><a href="42tm-literatura"><i class="fa fa-circle-o"></i> 4º 2da. - TM</a></li>
                   <li><a href="41tt-literatura"><i class="fa fa-circle-o"></i> 4º 1ra. - TT</a></li>
-                  <li><a href="42tt-literatura"><i class="fa fa-circle-o"></i> 4º 2da. - TT</a></li>
                   <li><a href="51tm-literatura"><i class="fa fa-circle-o"></i> 5º 1ra. - TM</a></li>
                   <li><a href="52tm-literatura"><i class="fa fa-circle-o"></i> 5º 2da. - TM</a></li>
                   <li><a href="51tt-literatura"><i class="fa fa-circle-o"></i> 5º 1ra. - TT</a></li>
-                  <li><a href="52tt-literatura"><i class="fa fa-circle-o"></i> 5º 2da. - TT</a></li>
               </ul>
 
            
@@ -212,18 +203,15 @@
                   <li><a href="12tt-matematica"><i class="fa fa-circle-o"></i> 1º 2da. - TT</a></li>
                   <li><a href="21tm-matematica"><i class="fa fa-circle-o"></i> 2º 1ra. - TM</a></li>
                   <li><a href="21tt-matematica"><i class="fa fa-circle-o"></i> 2º 1ra. - TT</a></li>
-                  <li><a href="22tt-matematica"><i class="fa fa-circle-o"></i> 2º 2da. - TT</a></li>
                   <li><a href="31tm-matematica"><i class="fa fa-circle-o"></i> 3º 1ra. - TM</a></li>
                   <li><a href="32tm-matematica"><i class="fa fa-circle-o"></i> 3º 2da. - TM</a></li>
                   <li><a href="31tt-matematica"><i class="fa fa-circle-o"></i> 3º 1ra. - TT</a></li>
                   <li><a href="41tm-matematica"><i class="fa fa-circle-o"></i> 4º 1ra. - TM</a></li>
                   <li><a href="42tm-matematica"><i class="fa fa-circle-o"></i> 4º 2da. - TM</a></li>
                   <li><a href="41tt-matematica"><i class="fa fa-circle-o"></i> 4º 1ra. - TT</a></li>
-                  <li><a href="42tt-matematica"><i class="fa fa-circle-o"></i> 4º 2da. - TT</a></li>
                   <li><a href="51tm-matematica"><i class="fa fa-circle-o"></i> 5º 1ra. - TM</a></li>
                   <li><a href="52tm-matematica"><i class="fa fa-circle-o"></i> 5º 2da. - TM</a></li>
                   <li><a href="51tt-matematica"><i class="fa fa-circle-o"></i> 5º 1ra. - TT</a></li>
-                  <li><a href="52tt-matematica"><i class="fa fa-circle-o"></i> 5º 2da. - TT</a></li>
               </ul>
 
            
@@ -250,18 +238,15 @@
                   <li><a href="12tt-ingles"><i class="fa fa-circle-o"></i> 1º 2da. - TT</a></li>
                   <li><a href="21tm-ingles"><i class="fa fa-circle-o"></i> 2º 1ra. - TM</a></li>
                   <li><a href="21tt-ingles"><i class="fa fa-circle-o"></i> 2º 1ra. - TT</a></li>
-                  <li><a href="22tt-ingles"><i class="fa fa-circle-o"></i> 2º 2da. - TT</a></li>
                   <li><a href="31tm-ingles"><i class="fa fa-circle-o"></i> 3º 1ra. - TM</a></li>
                   <li><a href="32tm-ingles"><i class="fa fa-circle-o"></i> 3º 2da. - TM</a></li>
                   <li><a href="31tt-ingles"><i class="fa fa-circle-o"></i> 3º 1ra. - TT</a></li>
                   <li><a href="41tm-ingles"><i class="fa fa-circle-o"></i> 4º 1ra. - TM</a></li>
                   <li><a href="42tm-ingles"><i class="fa fa-circle-o"></i> 4º 2da. - TM</a></li>
                   <li><a href="41tt-ingles"><i class="fa fa-circle-o"></i> 4º 1ra. - TT</a></li>
-                  <li><a href="42tt-ingles"><i class="fa fa-circle-o"></i> 4º 2da. - TT</a></li>
                   <li><a href="51tm-ingles"><i class="fa fa-circle-o"></i> 5º 1ra. - TM</a></li>
                   <li><a href="52tm-ingles"><i class="fa fa-circle-o"></i> 5º 2da. - TM</a></li>
                   <li><a href="51tt-ingles"><i class="fa fa-circle-o"></i> 5º 1ra. - TT</a></li>
-                  <li><a href="52tt-ingles"><i class="fa fa-circle-o"></i> 5º 2da. - TT</a></li>
               </ul>
 
            
@@ -289,18 +274,15 @@
                   <li><a href="12tt-edfisica"><i class="fa fa-circle-o"></i> 1º 2da. - TT</a></li>
                   <li><a href="21tm-edfisica"><i class="fa fa-circle-o"></i> 2º 1ra. - TM</a></li>
                   <li><a href="21tt-edfisica"><i class="fa fa-circle-o"></i> 2º 1ra. - TT</a></li>
-                  <li><a href="22tt-edfisica"><i class="fa fa-circle-o"></i> 2º 2da. - TT</a></li>
                   <li><a href="31tm-edfisica"><i class="fa fa-circle-o"></i> 3º 1ra. - TM</a></li>
                   <li><a href="32tm-edfisica"><i class="fa fa-circle-o"></i> 3º 2da. - TM</a></li>
                   <li><a href="31tt-edfisica"><i class="fa fa-circle-o"></i> 3º 1ra. - TT</a></li>
                   <li><a href="41tm-edfisica"><i class="fa fa-circle-o"></i> 4º 1ra. - TM</a></li>
                   <li><a href="42tm-edfisica"><i class="fa fa-circle-o"></i> 4º 2da. - TM</a></li>
                   <li><a href="41tt-edfisica"><i class="fa fa-circle-o"></i> 4º 1ra. - TT</a></li>
-                  <li><a href="42tt-edfisica"><i class="fa fa-circle-o"></i> 4º 2da. - TT</a></li>
                   <li><a href="51tm-edfisica"><i class="fa fa-circle-o"></i> 5º 1ra. - TM</a></li>
                   <li><a href="52tm-edfisica"><i class="fa fa-circle-o"></i> 5º 2da. - TM</a></li>
                   <li><a href="51tt-edfisica"><i class="fa fa-circle-o"></i> 5º 1ra. - TT</a></li>
-                  <li><a href="52tt-edfisica"><i class="fa fa-circle-o"></i> 5º 2da. - TT</a></li>
               </ul>
 
            
@@ -329,14 +311,12 @@
                   <li><a href="12tt-artistica"><i class="fa fa-circle-o"></i> 1º 2da. - TT</a></li>
                   <li><a href="21tm-artistica"><i class="fa fa-circle-o"></i> 2º 1ra. - TM</a></li>
                   <li><a href="21tt-artistica"><i class="fa fa-circle-o"></i> 2º 1ra. - TT</a></li>
-                  <li><a href="22tt-artistica"><i class="fa fa-circle-o"></i> 2º 2da. - TT</a></li>
                   <li><a href="31tm-artistica"><i class="fa fa-circle-o"></i> 3º 1ra. - TM</a></li>
                   <li><a href="32tm-artistica"><i class="fa fa-circle-o"></i> 3º 2da. - TM</a></li>
                   <li><a href="31tt-artistica"><i class="fa fa-circle-o"></i> 3º 1ra. - TT</a></li>
                   <li><a href="41tm-artistica"><i class="fa fa-circle-o"></i> 4º 1ra. - TM</a></li>
                   <li><a href="42tm-artistica"><i class="fa fa-circle-o"></i> 4º 2da. - TM</a></li>
                   <li><a href="41tt-artistica"><i class="fa fa-circle-o"></i> 4º 1ra. - TT</a></li>
-                  <li><a href="42tt-artistica"><i class="fa fa-circle-o"></i> 4º 2da. - TT</a></li>
               </ul>
 
            
@@ -348,12 +328,12 @@
 
             <?php
 
-            if ($_SESSION["perfil"] == "Administrador" || $_SESSION["perfil"] == "Directivo" || $_SESSION["perfil"] == "Docente Modalidad Sociales") {
+            if ($_SESSION["perfil"] == "Administrador" || $_SESSION["perfil"] == "Directivo" || $_SESSION["perfil"] == "Docente Modalidad Ciencias Naturales") {
 
 
                   echo'<li class="treeview">
                       <a href="#">
-                          <i class="fa fa-graduation-cap"></i>  C.O. Ciencias Sociales
+                          <i class="fa fa-graduation-cap"></i>  C.O. Cs. Naturales
                           <i class="fa fa-angle-left pull-right"></i>
                       </a>                            
 
@@ -369,100 +349,6 @@
                                     <li class="treeview">
                                       <li>
                                             <a href="3-antropologia-sociales">
-                                            <i class="fa fa-check-circle-o"></i>
-                                                Antropología Cultural                          
-                                            </a>
-                                      </li>  
-                                  </li>
-                              </li>
-                          </ul>
-                          </li>
-                            <li class="treeview">
-                                <a href="#">
-                                    <i class="fa fa-circle-o"></i>
-                                    4º Año
-                                    <i class="fa fa-angle-left pull-right"></i>
-                                </a>
-                            
-                            <ul class="treeview-menu">
-                                <li class="treeview">
-                                    <li>
-                                          <a href="4-antropologia-sociales">
-                                          <i class="fa fa-check-circle-o"></i>
-                                              Antropología Cultural                          
-                                          </a>
-                                    </li>
-                                    <li>
-                                          <a href="4-comunicacion-sociales">
-                                          <i class="fa fa-check-circle-o"></i>
-                                              Comunicación y Sociedad                          
-                                          </a>
-                                    </li>
-                                </li>
-                            </ul>
-                            </li>
-                            </li>
-                            <li class="treeview">
-                                  <a href="#">
-                                      <i class="fa fa-circle-o"></i>
-                                      5º Año
-                                      <i class="fa fa-angle-left pull-right"></i>
-                                  </a>
-                            
-                            <ul class="treeview-menu">
-                                <li class="treeview">
-                                      <li>
-                                          <a href="5-proyecto-sociales">
-                                          <i class="fa fa-check-circle-o"></i>
-                                              Proyecto de Investigación                          
-                                          </a>
-                                      </li>
-                                     <li>
-                                          <a href="5-conocimiento-sociales">
-                                          <i class="fa fa-check-circle-o"></i>
-                                              Conocimiento Social                          
-                                          </a>
-                                     </li>
-                                     <li>
-                                          <a href="5-problematica-sociales">
-                                          <i class="fa fa-check-circle-o"></i>
-                                              Problemáticas Sociales                          
-                                          </a>
-                                      </li>                                      
-                              </li>
-                            </ul>
-                            </li>
-
-                      </ul>   
-             </li>';
-
-             }
-
-            ?> 
-
-            <?php
-
-            if ($_SESSION["perfil"] == "Administrador" || $_SESSION["perfil"] == "Directivo" || $_SESSION["perfil"] == "Docente Modalidad Naturales") {
-
-
-                  echo'<li class="treeview">
-                      <a href="#">
-                          <i class="fa fa-graduation-cap"></i>  C.O. Ciencias Naturales
-                          <i class="fa fa-angle-left pull-right"></i>
-                      </a>                            
-
-                        <ul class="treeview-menu">
-                            <li class="treeview">
-                                <a href="#">
-                                    <i class="fa fa-circle-o"></i>
-                                    3er. Año
-                                    <i class="fa fa-angle-left pull-right"></i>
-                                </a>
-
-                                <ul class="treeview-menu">
-                                    <li class="treeview">
-                                      <li>
-                                            <a href="3-quimica-naturales">
                                             <i class="fa fa-check-circle-o"></i>
                                                 Química Ambiental                          
                                             </a>
@@ -481,13 +367,13 @@
                             <ul class="treeview-menu">
                                 <li class="treeview">
                                     <li>
-                                          <a href="4-tierra1-naturales">
+                                          <a href="4-antropologia-sociales">
                                           <i class="fa fa-check-circle-o"></i>
-                                              Ciencias Tierra I                          
+                                              Ciencias de la Tierra I                          
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="4-fisica-naturales">
+                                          <a href="4-comunicacion-sociales">
                                           <i class="fa fa-check-circle-o"></i>
                                               Física Ambiental                          
                                           </a>
@@ -506,21 +392,127 @@
                             <ul class="treeview-menu">
                                 <li class="treeview">
                                       <li>
-                                          <a href="5-biotecnologia-naturales">
+                                          <a href="5-proyecto-sociales">
                                           <i class="fa fa-check-circle-o"></i>
                                               Biotecnología                          
                                           </a>
                                       </li>
                                      <li>
+                                          <a href="5-conocimiento-sociales">
+                                          <i class="fa fa-check-circle-o"></i>
+                                              Cs. Tec. Soc. Amb. y Valores                          
+                                          </a>
+                                     </li>
+                                     <li>
+                                          <a href="5-problematica-sociales">
+                                          <i class="fa fa-check-circle-o"></i>
+                                              Ciencias de la Tierra II                          
+                                          </a>
+                                      </li>                                      
+                              </li>
+                            </ul>
+                            </li>
+
+                      </ul>   
+             </li>';
+
+             }
+
+            ?> 
+
+            <?php
+
+            if ($_SESSION["perfil"] == "Administrador" || $_SESSION["perfil"] == "Directivo" || $_SESSION["perfil"] == "Docente Modalidad Educación Física") {
+
+
+                  echo'<li class="treeview">
+                      <a href="#">
+                          <i class="fa fa-graduation-cap"></i>  C.O. Educación Física
+                          <i class="fa fa-angle-left pull-right"></i>
+                      </a>                            
+
+                        <ul class="treeview-menu">
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-circle-o"></i>
+                                    3er. Año
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </a>
+
+                                <ul class="treeview-menu">
+                                    <li class="treeview">
+                                      <li>
+                                            <a href="3-quimica-naturales">
+                                            <i class="fa fa-check-circle-o"></i>
+                                                Corporeidad y Motricidad                          
+                                            </a>
+                                      </li>  
+                                  </li>
+                              </li>
+                          </ul>
+                          </li>
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-circle-o"></i>
+                                    4º Año
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </a>
+                            
+                            <ul class="treeview-menu">
+                                <li class="treeview">
+                                    <li>
+                                          <a href="4-tierra1-naturales">
+                                          <i class="fa fa-check-circle-o"></i>
+                                              Culturas Corporales                          
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="4-fisica-naturales">
+                                          <i class="fa fa-check-circle-o"></i>
+                                              Ludomotrices y Deportivas                          
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="4-fisica-naturales">
+                                          <i class="fa fa-check-circle-o"></i>
+                                              Corporales y Expresivas                          
+                                          </a>
+                                    </li>
+                                </li>
+                            </ul>
+                            </li>
+                            </li>
+                            <li class="treeview">
+                                  <a href="#">
+                                      <i class="fa fa-circle-o"></i>
+                                      5º Año
+                                      <i class="fa fa-angle-left pull-right"></i>
+                                  </a>
+                            
+                            <ul class="treeview-menu">
+                                <li class="treeview">
+                                      <li>
+                                          <a href="5-biotecnologia-naturales">
+                                          <i class="fa fa-check-circle-o"></i>
+                                              Prac. de Intervención                          
+                                          </a>
+                                      </li>
+                                     <li>
                                           <a href="5-ciencias-naturales">
                                           <i class="fa fa-check-circle-o"></i>
-                                              Ciencias, Tecnología                          
+                                              Ambiente Natural y Urbano                          
                                           </a>
                                      </li>
                                      <li>
                                           <a href="5-tierra2-naturales">
                                           <i class="fa fa-check-circle-o"></i>
-                                              Ciencias Tierra II                         
+                                              Espacio Op. Institucional                         
+                                          </a>
+                                      </li>
+                                      <li>
+                                          <a href="5-tierra2-naturales">
+                                          <i class="fa fa-check-circle-o"></i>
+                                              Proyectos                         
                                           </a>
                                       </li> 
                               </li>

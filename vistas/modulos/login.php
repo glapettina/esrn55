@@ -32,9 +32,7 @@
            <label>Período</label>
            <select class="form-control" id="periodo" name="periodo" required>
               <option value="">-- Seleccione --</option>              
-              <option value="01/2023">01/2023</option>
-              <option value="02/2023">02/2023</option>
-              <option value="01/2024">01/2024</option>
+              <option value="02/2024">02/2024</option>
            </select>
       </div>     
 
